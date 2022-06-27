@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
     - 💡: [Medium](https://medium.com/@charanhu)
     - 🎯: [Projects](https://github.com/charanahu?tab=repositories)
     - 🔈: [Podcast](https://open.spotify.com/show/3fiIwaa8YtSBfHRmmbGPzs)
-    - 📹: [YouTube](https://youtube.com/crtek/)
+    - 📹: [YouTube](https://youtube.com/channel/UCN2IlH95pQZj-J9PdS2NjIA)
 - ⚡ Fun fact: I am currently sharing a little bit of my knowledge to the world through [my videos](https://youtube.com/crtek) and [Daily Data Science and Programing Videos]
 - 😄 Pronouns: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@charanhu) and [daily data science tips]
 
