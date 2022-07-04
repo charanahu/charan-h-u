@@ -1,4 +1,4 @@
-### Hi there. I'm Charan 👋
+### Hi!. I'm Charan 👋
 
 <!-- 
 **charanhu/charanhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
